@@ -1,0 +1,15 @@
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\bin\Debug\net7.0\Compra.exe
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\bin\Debug\net7.0\Compra.deps.json
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\bin\Debug\net7.0\Compra.runtimeconfig.json
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\bin\Debug\net7.0\Compra.dll
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\bin\Debug\net7.0\Compra.pdb
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.csproj.AssemblyReference.cache
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.AssemblyInfoInputs.cache
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.AssemblyInfo.cs
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.dll
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\refint\Compra.dll
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.pdb
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\Compra.genruntimeconfig.cache
+C:\Workspace\C#\Treino\Treino3.0\Compra\Compra\obj\Debug\net7.0\ref\Compra.dll
